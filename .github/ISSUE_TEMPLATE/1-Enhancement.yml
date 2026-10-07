@@ -1,0 +1,11 @@
+name: Enhancement
+description: A request, idea, or new functionality
+type: Enhancement
+body:
+  - type: textarea
+    id: enhancement
+    attributes:
+      label: Description
+      placeholder: Create a meaningful description including why this enhancement is needed.
+    validations:
+      required: true

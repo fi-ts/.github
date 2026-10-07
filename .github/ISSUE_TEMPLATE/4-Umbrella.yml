@@ -1,0 +1,16 @@
+name: Umbrella
+description: An issue that aggregates more issues
+title: "☂️ "
+type: Umbrella
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Umbrella issues are usually parenting sub-issue and long-running. They might also enumerate a list of pull requests.
+  - type: textarea
+    id: umbrella
+    attributes:
+      label: Description
+      placeholder: Summarize issues and pull requests with this issue.
+    validations:
+      required: true

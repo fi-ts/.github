@@ -1,0 +1,51 @@
+## Description
+
+TODO
+
+#### Used AI-Tools ✨
+
+- TOOL used for generation
+
+<!--
+If possible, please reference other issues or pull requests.
+
+Closes #<the-issue-number-to-close>.
+
+References:
+
+- ...
+
+If not already described in a referenced issue, please describe your PR and the motivation behind it. Just try to make life easy for the reviewers.
+
+Please be aware that the pull request's title will become part of the release notes, so try to make it understandable.
+-->
+
+<!--
+You maybe want to attach the triage label if you want it to be discussed in the next planning meeting. It might be useful to attend the meeting if you want to emphasize it.
+
+If you would like to add something to the release notes for the next cloud release (cloud/releases), you can do so by adding SPECIAL SECTIONS (code blocks) in this PR. Please only add a section when this is relevant for the entire project.
+
+You can use the following snippets as an example:
+
+## Release Notes
+
+### Breaking Change
+
+```BREAKING_CHANGE
+Description of the breaking change and what an operator needs to do about it.
+This section is **not** intended for documentation of internal breaking changes.
+Release notes are meant to be read by users and operators of fi-ts, not fi-ts developers.
+```
+
+### Required Actions
+
+```ACTIONS_REQUIRED
+Description of the required action for operators.
+```
+
+### Noteworthy
+
+```NOTEWORTHY
+Description of noteworthy release information for the fi-ts project that users or operators should know.
+```
+-->
